@@ -7,7 +7,7 @@ require (
 	github.com/google/go-containerregistry v0.21.7
 	github.com/modelcontextprotocol/registry v1.8.0
 	github.com/spf13/cobra v1.10.2
-	github.com/stacklok/toolhive-core v0.0.29
+	github.com/stacklok/toolhive-core v0.0.37
 	github.com/stretchr/testify v1.11.1
 	gopkg.in/yaml.v3 v3.0.1
 )
@@ -93,8 +93,8 @@ require (
 	golang.org/x/term v0.45.0 // indirect
 	golang.org/x/text v0.40.0 // indirect
 	google.golang.org/genproto/googleapis/api v0.0.0-20260526163538-3dc84a4a5aaa // indirect
-	google.golang.org/genproto/googleapis/rpc v0.0.0-20260523011958-0a33c5d7ca68 // indirect
-	google.golang.org/grpc v1.82.0 // indirect
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20260526163538-3dc84a4a5aaa // indirect
+	google.golang.org/grpc v1.82.1 // indirect
 	google.golang.org/protobuf v1.36.11 // indirect
 	k8s.io/klog/v2 v2.140.0 // indirect
 )
